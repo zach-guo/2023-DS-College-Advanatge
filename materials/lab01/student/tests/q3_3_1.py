@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q3_3_1',
     'points': 1,
     'suites': [   {   'cases': [   {   'code': '>>> # Fill in the row;\n'

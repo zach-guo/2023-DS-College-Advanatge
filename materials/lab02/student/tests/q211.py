@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q211',
     'points': 1,
     'suites': [   {   'cases': [   {   'code': '>>> # Hint: You can write the sine of 1.5*pi as:;\n'

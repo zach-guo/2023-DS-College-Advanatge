@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q6_5',
     'points': 1,
     'suites': [   {   'cases': [   {   'code': ">>> # We're asking for the number of *pieces of fruit, not the number of kinds of fruit or the number of boxes from which there were sales.;\n"

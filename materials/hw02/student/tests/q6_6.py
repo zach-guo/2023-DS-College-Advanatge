@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q6_6',
     'points': 1,
     'suites': [   {   'cases': [   {   'code': ">>> # If you're stuck, here's a hint:;\n"

@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q5_3',
     'points': 1,
     'suites': [   {   'cases': [   {'code': '>>> difference_from_expected.size == 272\nTrue', 'hidden': False, 'locked': False},
